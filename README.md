@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # HDPS-FocusUs
 ### Heart Disease Prediction System (HDPS) is a web-based Machine Learning Project with a user-friendly interface that is built with Django. It predicts whether the patient has heart disease or not using Machine Learning (ML) Algorithm Logistic Regression. 
 
@@ -22,3 +23,7 @@ python manage.py createsuperuser
 ```
 #### To run the server type the following command
     python manage.py runserver
+=======
+# Heart-Disease-Predictor
+Heart disease prediction system using machine learning algorithms such as Decision Trees, Random Forest, and MLP. Includes data preprocessing, feature scaling, and model evaluation.
+>>>>>>> c01892a2cec0434afcb9837d98c88f8b02d4c701
