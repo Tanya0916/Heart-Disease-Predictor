@@ -25,9 +25,7 @@ SECRET_KEY = 'd1v#2-xne%^%s!_&-k0m#3awh+u2$3zx(jyiie+9^9fs3$^bbl'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ["heart-disease-predictor-2-oe5b.onrender.com",
-    "localhost",
-    "127.0.0.1",]
+ALLOWED_HOSTS = ["*"]
 
 
 # Application definition
