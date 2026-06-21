@@ -12,14 +12,14 @@ In HDPS data is extracted from the patient which includes different 13 parameter
 ```
 pip install django sklearn
 ```
-#### Run following commands
+#### Run following commands:
 ```
 python manage.py collectstatic
 python manage.py makemigrations 
 python manage.py migrate
 python manage.py createsuperuser
 ```
-#### To run the server type the following command
+#### To run the server type the following command:
     python manage.py runserver
 
 
