@@ -3,7 +3,7 @@
 A machine learning model that predicts the likelihood of heart disease based on medical parameters.
 Heart disease prediction system using machine learning algorithms such as Decision Tree, Random Forest, and MLP. Includes data preprocessing, feature scaling, and model evaluation.   IT is a web-based Machine Learning Project with a user-friendly interface that is built with Django and Scikit-learn. It predicts whether the patient has heart disease or not with probability.
 
-In HDPS data is extracted from the patient which includes different 13 parameters like blood pressure, age, sex, etc. This data is then fed to the trained model which provides the outcome in the form of probability ranging value 0-1.
+In HDPS data is extracted from the patient which includes different 14 parameters like blood pressure, age, sex, Smkr etc. This data is then fed to the trained model which provides the outcome in the form of probability ranging value 0-1.
 
 ## Project Objective
 The objective of this project was to develop a machine learning-based web application capable of predicting the likelihood of heart disease using patient clinical data. Heart disease is one of the leading causes of mortality worldwide, and early detection can significantly improve treatment outcomes. The project aimed to build an accurate predictive model by comparing multiple machine learning algorithms and deploying the best-performing model through a user-friendly web interface.
